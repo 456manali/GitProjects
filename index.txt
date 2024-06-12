@@ -1,0 +1,30 @@
+Q1: What is polymorphism in Java?
+=>    Polymorphism is the ability of an object to take on multiple forms. 
+      In Java, this can be achieved through method overriding or method overloading.
+
+Q2: What is the difference between an interface and an abstract class in Java?
+
+=> An interface is a abstract class that contains only constants and method signatures, 
+   while an abstract class can contain both constants and method implementations.
+
+Q3: How do you handle exceptions in Java?
+
+=> In Java, exceptions can be handled using a try-catch statement. 
+   The try block contains the code that may throw an exception, 
+   while the catch block contains the code that will be executed if an exception is thrown.
+
+Q4: What is the purpose of the this keyword in Java?
+
+=> The this keyword is used to refer to the current object in Java. 
+   It can be used to access class members, such as variables and methods, 
+   and to pass the current object as an argument to another method.
+
+Q5: What is the difference between a primitive data type and a reference data type in Java?
+
+=>  Primitive data types, such as int and boolean, are stored in memory as a single value, 
+    while reference data types, such as String and ArrayList, are stored in memory as a reference to an object.
+
+Q6: How do you create a thread in Java?
+
+=>  In Java, a thread can be created by extending the Thread class or by implementing the Runnable interface.
+
